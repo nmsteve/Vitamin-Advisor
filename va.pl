@@ -35,6 +35,7 @@ vegetable('bell peppers',Acidic,Vitamin)   :- Acidic = yes ,Vitamin = c.
 
 vegetable(broccoli,Acidic,Vitamin)           :- Acidic = no ,( Vitamin = c ; Vitamin = k).
 vegetable(sprouts,Acidic,Vitamin)            :- Acidic = no ,( Vitamin = c ; Vitamin =k).
+vegetable('Kale (cooked)',Acidic,Vitamin)            :- Acidic = no ,( Vitamin = c ; Vitamin =k).
 
 vegetable(mushrooms,Acidic,Vitamin)          :- Acidic = no ,Vitamin = d.
 
