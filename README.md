@@ -1,6 +1,6 @@
 # Vitamin-Advisor
 
-This is a simple Prolog Progman that suggest fruits or Vegetables rich on a certain vitamin.
+This is a simple Prolog program that suggests fruits or Vegetables rich on a certain vitamin.
 The system also considers people suffering from acid reflux thus suggesting fruits or Vegetables that have low acidity.
 
 
@@ -17,5 +17,5 @@ Window/mac<br>
 
 Run the following commands:<br>
 
-To suggest fruits: findall(Fruits, suggestFruit(Fruit), Take)
-To suggest vegetabe: finfall(Vegetables, suggestVegetable(Vegetable), Take)
+To suggest fruits: _findall(Fruits, suggestFruit(Fruit)_ Take)._<br>
+To suggest vegetable: _finfall(Vegetables, suggestVegetable(Vegetable), Take)._
