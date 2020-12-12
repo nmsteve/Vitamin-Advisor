@@ -9,13 +9,13 @@ Follow the guideline to install SWI-Prolog from https://www.swi-prolog.org/Downl
 
 clone or download the repo into your machine.
 
-Linux
+Linux <br> 
 Right-click on the folder and *open in terminal*.
 
-Window/mac
+Window/mac<br>
  Right-click on the folder and *open with other application* choose SWI-Prolog Program.
 
-Run the following commands:
+Run the following commands:<br>
 
 To suggest fruits: findall(Fruits, suggestFruit(Fruit), Take)
 To suggest vegetabe: finfall(Vegetables, suggestVegetable(Vegetable), Take)
