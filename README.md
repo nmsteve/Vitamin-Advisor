@@ -17,5 +17,5 @@ Window/mac<br>
 
 Run the following commands:<br>
 
-To suggest fruits: _findall(Fruits, suggestFruit(Fruit)_ Take)._<br>
-To suggest vegetable: _finfall(Vegetables, suggestVegetable(Vegetable), Take)._
+To suggest fruits: **findall(Fruits, suggestFruit(Fruit)_ Take).**_<br>
+To suggest vegetables: **findall(Vegetables, suggestVegetable(Vegetable), Take).**
