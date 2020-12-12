@@ -4,7 +4,7 @@ This is a simple Prolog Progman that suggest fruits or Vegetables rich on a cert
 The system also considers people suffering from acid reflux thus suggesting fruits or Vegetables that have low acidity.
 
 
-#Running the Progam
+# Running the Progam
 Follow the guideline to install SWI-Prolog from https://www.swi-prolog.org/Download.html 
 
 clone or download the repo into your machine.
