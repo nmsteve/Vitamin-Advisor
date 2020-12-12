@@ -14,10 +14,10 @@ Right-click on the folder and *open in terminal*.
 
 Run the following commands:<br>
 
-To start SWI-proLog: **swipl**
-To load load the database: **[va].**
+To start SWI-proLog: **swipl** <br>
+To load load the database: **[va].** <br>
 To suggest fruits: **findall(Fruits, suggestFruit(Fruit), Take).**<br>
-To suggest vegetables: **findall(Vegetables, suggestVegetable(Vegetable), Take).**
+To suggest vegetables: **findall(Vegetables, suggestVegetable(Vegetable), Take).** <br>
 
 Window/mac<br>
  Right-click on the folder and *open with other application* choose SWI-Prolog Program.
