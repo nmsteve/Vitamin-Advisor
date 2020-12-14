@@ -1,6 +1,6 @@
 # Vitamin-Advisor
 
-This is a simple Prolog program that suggests fruits or Vegetables rich on a certain vitamin.
+This is a simple Prolog program that suggests fruits or Vegetables rich in a certain vitamin.
 The system also considers people suffering from acid reflux thus suggesting fruits or Vegetables that have low acidity.
 
 
@@ -15,7 +15,7 @@ Right-click on the folder and *open in terminal*.
 Run the following commands:<br>
 
 To start SWI-proLog: **swipl** <br>
-To load load the database: **[va].** <br>
+To load the database: **[va].** <br>
 To suggest fruits: **findall(Fruits, suggestFruit(Fruit), Take).**<br>
 To suggest vegetables: **findall(Vegetables, suggestVegetable(Vegetable), Take).** <br>
 
