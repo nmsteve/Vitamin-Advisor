@@ -19,7 +19,7 @@ To load the database: **[va].** <br>
 To suggest fruits: **findall(Fruits, suggestFruit(Fruit), Take).**<br>
 To suggest vegetables: **findall(Vegetables, suggestVegetable(Vegetable), Take).** <br>
 
-Window/mac<br>
+Window<br>
  Right-click on the folder and *open with other application* choose SWI-Prolog Program.
 
 Run the following commands:<br>
