@@ -1,0 +1,7 @@
+findall(Vegetables, suggestVegetable(Vegetable), Take).
+
+Writing Vegetables cause error
+
+the correct command is:
+
+findall(Vegetable, suggestVegetable(Vegetable), Take).
